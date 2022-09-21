@@ -58,4 +58,4 @@ Access Upon Request – Databases:
 
 	FINALL TRAINING VERSIONS OF THE CNN - RELATED TO THE EVALUATION OF EYE DISEASES.
 
-The CNNs resulting from the respective trainings are stored in the "Results" folder: netTransfer1, netTransfer2, netTransfer3, netTransfer4 and netTransfer5 for classification of diseases by classes. DOI: 10.5281/zenodo.7098879
+The CNNs resulting from the respective trainings are stored in the "Results" folder: netTransfer1, netTransfer2, netTransfer3, netTransfer4 and netTransfer5 for classification of diseases by classes. The convolutional neural network trainings are not subject to change or modification. Access to them through the DOI identifier: 10.5281/zenodo.7098879
