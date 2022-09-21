@@ -1,5 +1,5 @@
 # EyeEvaluationSourceCode
-MatLab codes and scripts related to image processing and pre-processing.
+MatLab codes and scripts related to image processing, pre-processing & Training versions of the AlexNet Convolutional Neural Network (NetTransfers I-V)
 
 	IMAGE PRE-PROCESSING
 The project has been developed using the 'AlexNet' neural network. If you want to install the neural network in MatLab, follow the steps in the debugger. The images must be ready in the format 227x227 pixels and in color (RGB). Greyscale images and aimages with dimensions other than 227x227 px cannot be opened by AlexNet for retraining without first converting them. A converter of images ('Converter_227_final.m') with the required format for alexnet is provided.
